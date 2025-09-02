@@ -1,0 +1,11 @@
+{
+  "onlineApplicationVersion": "0.1.0",
+  "release_date": "YYYY-MM-DD",
+  "features": [],
+  "fixed_errors": [],
+  "notes": "This release focuses on various new sections",
+  "release_url": "https://github.com/AhmedTrooper/CatchRaceGo/releases",
+  "author": "AhmedTrooper",
+  "severity": "medium",
+  "platforms": ["desktop", "mobile"]
+}
